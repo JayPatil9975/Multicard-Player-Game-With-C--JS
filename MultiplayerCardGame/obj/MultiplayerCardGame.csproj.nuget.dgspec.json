@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/MultiplayerCardGame.csproj": {}
+  },
+  "projects": {
+    "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/MultiplayerCardGame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/MultiplayerCardGame.csproj",
+        "projectName": "MultiplayerCardGame",
+        "projectPath": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/MultiplayerCardGame.csproj",
+        "packagesPath": "/Users/jayeshpatil/.nuget/packages/",
+        "outputPath": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jayeshpatil/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

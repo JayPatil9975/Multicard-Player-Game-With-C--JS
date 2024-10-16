@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MultiplayerCardGame/game.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\game.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DNa2med0eFxMArHnWdgDi7rpQhMxe0EznIJYbyUp8\u002BY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"679"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022DNa2med0eFxMArHnWdgDi7rpQhMxe0EznIJYbyUp8\u002BY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Oct 2024 18:28:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiplayerCardGame/game.kugzeaqzq2.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\game.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kugzeaqzq2"},{"Name":"integrity","Value":"sha256-DNa2med0eFxMArHnWdgDi7rpQhMxe0EznIJYbyUp8\u002BY="},{"Name":"label","Value":"_content/MultiplayerCardGame/game.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"679"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022DNa2med0eFxMArHnWdgDi7rpQhMxe0EznIJYbyUp8\u002BY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Oct 2024 18:28:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiplayerCardGame/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qHwv16HESwg487nwKid3E9N850yRGbIoZUIvZQCSwIE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"950"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022qHwv16HESwg487nwKid3E9N850yRGbIoZUIvZQCSwIE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Oct 2024 18:32:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiplayerCardGame/index.o0d7naqnnb.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o0d7naqnnb"},{"Name":"integrity","Value":"sha256-qHwv16HESwg487nwKid3E9N850yRGbIoZUIvZQCSwIE="},{"Name":"label","Value":"_content/MultiplayerCardGame/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"950"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022qHwv16HESwg487nwKid3E9N850yRGbIoZUIvZQCSwIE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Oct 2024 18:32:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiplayerCardGame/styles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nk23BMF/79oRQkbklKfwyD4LVuQ5f95GrD83ro0PHVs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"540"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022nk23BMF/79oRQkbklKfwyD4LVuQ5f95GrD83ro0PHVs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Oct 2024 18:28:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiplayerCardGame/styles.yjhzagklzi.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yjhzagklzi"},{"Name":"integrity","Value":"sha256-nk23BMF/79oRQkbklKfwyD4LVuQ5f95GrD83ro0PHVs="},{"Name":"label","Value":"_content/MultiplayerCardGame/styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"540"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022nk23BMF/79oRQkbklKfwyD4LVuQ5f95GrD83ro0PHVs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Oct 2024 18:28:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "bWDHtiMCI2WIxH8kzluMPnDiw+j5yTIBBCweudK+g5k=",
+  "Source": "MultiplayerCardGame",
+  "BasePath": "_content/MultiplayerCardGame",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MultiplayerCardGame/wwwroot",
+      "Source": "MultiplayerCardGame",
+      "ContentRoot": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/",
+      "BasePath": "_content/MultiplayerCardGame",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/2xogqjh65a-yjhzagklzi.gz",
+      "SourceId": "MultiplayerCardGame",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/MultiplayerCardGame",
+      "RelativePath": "styles#[.{fingerprint=yjhzagklzi}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "qwfs1s6e3f",
+      "Integrity": "irAIcX4eR4Aio50YDpi+ZXOxqu69ws/ldq8MB1m+ZBI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/styles.css"
+    },
+    {
+      "Identity": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/65gz5sc5s8-kugzeaqzq2.gz",
+      "SourceId": "MultiplayerCardGame",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/MultiplayerCardGame",
+      "RelativePath": "game#[.{fingerprint=kugzeaqzq2}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/game.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1iztbrrafs",
+      "Integrity": "+b9CcoFE5j4aVx+buE+2dnIOw0snn49efizanbLPaOQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/game.js"
+    },
+    {
+      "Identity": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/skbvke30b7-o0d7naqnnb.gz",
+      "SourceId": "MultiplayerCardGame",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/MultiplayerCardGame",
+      "RelativePath": "index#[.{fingerprint=o0d7naqnnb}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "egai4kb24p",
+      "Integrity": "kna9jhxb7J7x3mYV7AVuiAKZmsfccTb4aItN78A6EMI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/game.js",
+      "SourceId": "MultiplayerCardGame",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/",
+      "BasePath": "_content/MultiplayerCardGame",
+      "RelativePath": "game#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kugzeaqzq2",
+      "Integrity": "DNa2med0eFxMArHnWdgDi7rpQhMxe0EznIJYbyUp8+Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/game.js"
+    },
+    {
+      "Identity": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/index.html",
+      "SourceId": "MultiplayerCardGame",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/",
+      "BasePath": "_content/MultiplayerCardGame",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o0d7naqnnb",
+      "Integrity": "qHwv16HESwg487nwKid3E9N850yRGbIoZUIvZQCSwIE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/styles.css",
+      "SourceId": "MultiplayerCardGame",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/",
+      "BasePath": "_content/MultiplayerCardGame",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yjhzagklzi",
+      "Integrity": "nk23BMF/79oRQkbklKfwyD4LVuQ5f95GrD83ro0PHVs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "game.js",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/65gz5sc5s8-kugzeaqzq2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002994011976"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "333"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+b9CcoFE5j4aVx+buE+2dnIOw0snn49efizanbLPaOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:28:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DNa2med0eFxMArHnWdgDi7rpQhMxe0EznIJYbyUp8+Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DNa2med0eFxMArHnWdgDi7rpQhMxe0EznIJYbyUp8+Y="
+        }
+      ]
+    },
+    {
+      "Route": "game.js",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/game.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DNa2med0eFxMArHnWdgDi7rpQhMxe0EznIJYbyUp8+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:28:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DNa2med0eFxMArHnWdgDi7rpQhMxe0EznIJYbyUp8+Y="
+        }
+      ]
+    },
+    {
+      "Route": "game.js.gz",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/65gz5sc5s8-kugzeaqzq2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+b9CcoFE5j4aVx+buE+2dnIOw0snn49efizanbLPaOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:28:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+b9CcoFE5j4aVx+buE+2dnIOw0snn49efizanbLPaOQ="
+        }
+      ]
+    },
+    {
+      "Route": "game.kugzeaqzq2.js",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/65gz5sc5s8-kugzeaqzq2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002994011976"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "333"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+b9CcoFE5j4aVx+buE+2dnIOw0snn49efizanbLPaOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:28:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DNa2med0eFxMArHnWdgDi7rpQhMxe0EznIJYbyUp8+Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kugzeaqzq2"
+        },
+        {
+          "Name": "label",
+          "Value": "game.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DNa2med0eFxMArHnWdgDi7rpQhMxe0EznIJYbyUp8+Y="
+        }
+      ]
+    },
+    {
+      "Route": "game.kugzeaqzq2.js",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/game.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DNa2med0eFxMArHnWdgDi7rpQhMxe0EznIJYbyUp8+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:28:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kugzeaqzq2"
+        },
+        {
+          "Name": "label",
+          "Value": "game.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DNa2med0eFxMArHnWdgDi7rpQhMxe0EznIJYbyUp8+Y="
+        }
+      ]
+    },
+    {
+      "Route": "game.kugzeaqzq2.js.gz",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/65gz5sc5s8-kugzeaqzq2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+b9CcoFE5j4aVx+buE+2dnIOw0snn49efizanbLPaOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:28:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kugzeaqzq2"
+        },
+        {
+          "Name": "label",
+          "Value": "game.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+b9CcoFE5j4aVx+buE+2dnIOw0snn49efizanbLPaOQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/skbvke30b7-o0d7naqnnb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002237136465"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "446"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kna9jhxb7J7x3mYV7AVuiAKZmsfccTb4aItN78A6EMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:32:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qHwv16HESwg487nwKid3E9N850yRGbIoZUIvZQCSwIE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qHwv16HESwg487nwKid3E9N850yRGbIoZUIvZQCSwIE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qHwv16HESwg487nwKid3E9N850yRGbIoZUIvZQCSwIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:32:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qHwv16HESwg487nwKid3E9N850yRGbIoZUIvZQCSwIE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/skbvke30b7-o0d7naqnnb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kna9jhxb7J7x3mYV7AVuiAKZmsfccTb4aItN78A6EMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:32:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kna9jhxb7J7x3mYV7AVuiAKZmsfccTb4aItN78A6EMI="
+        }
+      ]
+    },
+    {
+      "Route": "index.o0d7naqnnb.html",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/skbvke30b7-o0d7naqnnb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002237136465"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "446"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kna9jhxb7J7x3mYV7AVuiAKZmsfccTb4aItN78A6EMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:32:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qHwv16HESwg487nwKid3E9N850yRGbIoZUIvZQCSwIE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o0d7naqnnb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qHwv16HESwg487nwKid3E9N850yRGbIoZUIvZQCSwIE="
+        }
+      ]
+    },
+    {
+      "Route": "index.o0d7naqnnb.html",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qHwv16HESwg487nwKid3E9N850yRGbIoZUIvZQCSwIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:32:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o0d7naqnnb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qHwv16HESwg487nwKid3E9N850yRGbIoZUIvZQCSwIE="
+        }
+      ]
+    },
+    {
+      "Route": "index.o0d7naqnnb.html.gz",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/skbvke30b7-o0d7naqnnb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kna9jhxb7J7x3mYV7AVuiAKZmsfccTb4aItN78A6EMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:32:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o0d7naqnnb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kna9jhxb7J7x3mYV7AVuiAKZmsfccTb4aItN78A6EMI="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/2xogqjh65a-yjhzagklzi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003496503497"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"irAIcX4eR4Aio50YDpi+ZXOxqu69ws/ldq8MB1m+ZBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:28:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nk23BMF/79oRQkbklKfwyD4LVuQ5f95GrD83ro0PHVs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nk23BMF/79oRQkbklKfwyD4LVuQ5f95GrD83ro0PHVs="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nk23BMF/79oRQkbklKfwyD4LVuQ5f95GrD83ro0PHVs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:28:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nk23BMF/79oRQkbklKfwyD4LVuQ5f95GrD83ro0PHVs="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/2xogqjh65a-yjhzagklzi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"irAIcX4eR4Aio50YDpi+ZXOxqu69ws/ldq8MB1m+ZBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:28:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-irAIcX4eR4Aio50YDpi+ZXOxqu69ws/ldq8MB1m+ZBI="
+        }
+      ]
+    },
+    {
+      "Route": "styles.yjhzagklzi.css",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/2xogqjh65a-yjhzagklzi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003496503497"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"irAIcX4eR4Aio50YDpi+ZXOxqu69ws/ldq8MB1m+ZBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:28:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nk23BMF/79oRQkbklKfwyD4LVuQ5f95GrD83ro0PHVs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yjhzagklzi"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nk23BMF/79oRQkbklKfwyD4LVuQ5f95GrD83ro0PHVs="
+        }
+      ]
+    },
+    {
+      "Route": "styles.yjhzagklzi.css",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/wwwroot/styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nk23BMF/79oRQkbklKfwyD4LVuQ5f95GrD83ro0PHVs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:28:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yjhzagklzi"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nk23BMF/79oRQkbklKfwyD4LVuQ5f95GrD83ro0PHVs="
+        }
+      ]
+    },
+    {
+      "Route": "styles.yjhzagklzi.css.gz",
+      "AssetFile": "/Users/jayeshpatil/Desktop/Game Developement/Component/MultiplayerCardGame/obj/Debug/net9.0/compressed/2xogqjh65a-yjhzagklzi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"irAIcX4eR4Aio50YDpi+ZXOxqu69ws/ldq8MB1m+ZBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Oct 2024 18:28:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yjhzagklzi"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-irAIcX4eR4Aio50YDpi+ZXOxqu69ws/ldq8MB1m+ZBI="
+        }
+      ]
+    }
+  ]
+}
